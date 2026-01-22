@@ -12,4 +12,3 @@ Connect your wallet to reveal your spiritual Web3 guardian!
 - React + Vite
 - WalletConnect AppKit
 - Wagmi
-https://github.com/evmsat/walletconnect-cekkhodam-funproject
